@@ -1,1 +1,1 @@
-Simple android application for uploading and downloading
+Simple android application for uploading and downloading files (images, word and pdf)
