@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "741404228351",
+    "firebase_url": "https://filesharing-11fe1.firebaseio.com",
+    "project_id": "filesharing-11fe1",
+    "storage_bucket": "filesharing-11fe1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741404228351:android:f56bdbadd3e012d9",
+        "android_client_info": {
+          "package_name": "com.intern.filesharing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741404228351-qojsmmi35idm7c1ea5dajpoea2r1q08h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.intern.filesharing",
+            "certificate_hash": "ff255da11bfa6f212c7ce7c22780f6f208d407b1"
+          }
+        },
+        {
+          "client_id": "741404228351-tv0sa9fcrfpi9cqpanjc55r34jns46b5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRRXIoC9UlDdcebxTUAy6750rjyTAIBrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741404228351-tv0sa9fcrfpi9cqpanjc55r34jns46b5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
